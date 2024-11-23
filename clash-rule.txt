@@ -1,1 +1,10 @@
-
+- DOMAIN-SUFFIX,live.com,DIRECT
+- DOMAIN-SUFFIX,fedex.com,DIRECT
+- DOMAIN-SUFFIX,fedex.com.cn,DIRECT
+- DOMAIN-SUFFIX,fedex.cn,DIRECT
+- DOMAIN-SUFFIX,shopfiy.com,速鹰666
+- DOMAIN-KEYWORD,github,速鹰666
+- DOMAIN-SUFFIX,msecnd.net,速鹰666
+- DOMAIN-SUFFIX,vscode-cdn.net,速鹰666
+- DOMAIN-SUFFIX,chatgpt.com,🇯🇵 JP-自动选择
+- MATCH,DIRECT
